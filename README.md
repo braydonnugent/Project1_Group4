@@ -34,9 +34,13 @@ https://www.abs.gov.au/statistics/labour/employment-and-unemployment/retirement-
 
 
  ## prerequisites
-To produce this analysis, we will need the following tools and libraries:
-Python Pandas NumPy Jupyter Notebook Matplotlib
-The project involves several tasks:
+  To produce this analysis, we will need the following tools and libraries:
+  
+  -Python Pandas
+  -NumPy
+  -Jupyter Notebook Matplotlib
+  -The project involves several tasks:
+  
 # Table of contents:
 1.	Preparing the Data
 2.	Generate Summary Statistics and Obersvations
@@ -47,10 +51,10 @@ The project involves several tasks:
 
 
 # Tasks
-Our project team divided our tasks in to three parts:
--Do certain professions retire at an earlier age? 
---What factors influence early retirement?
-How has retirement age changed overtime for everyone?
+  Our project team divided our tasks in to three parts:
+  -Do certain professions retire at an earlier age? 
+  -What factors influence early retirement?
+    How has retirement age changed overtime for everyone?
 
 First Task:
 #  Do certain professions retire at an earlier age?
