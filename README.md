@@ -1,3 +1,12 @@
+PLEASE FIND ATTACHED THE FOLLOWING FILES
+first_question - SV: answers the first question.
+retirement_analysis - BN: co answers the second question.
+Retirement Analysis - GD: co answers the second question.
+
+PRES Retirement Analysis: Group presentation slides.
+
+--------------------------------
+
 # Project1_Group4
 First Group Project
 
@@ -46,8 +55,8 @@ The project involves several tasks:
 
 # Tasks
 Our project team divided our tasks in to three parts:
--Do certain professions retire at an earlier age? 
---What factors influence early retirement?
+Do certain professions retire at an earlier age? 
+What factors influence early retirement?
 How has retirement age changed overtime for everyone?
 
 First Task:
@@ -55,7 +64,7 @@ First Task:
 ## Data overview:
 ## Preparing Data:
 We cleaned data to desired data frame by using python code.
--The main Data set is read from excel file (Previous jobs of retirees - cleaned.xlsx)   is     retiries _df  consist of  Cleaned data set  includes variables , Year, Population of interest , age at different intervals ,Average age, Classification ,Category.
+The main Data set is read from excel file (Previous jobs of retirees - cleaned.xlsx)   is     retiries _df  consist of  Cleaned data set  includes variables , Year, Population of interest , age at different intervals ,Average age, Classification ,Category.
 Image: retirees Data set.
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/7817db00-0b4e-4930-8037-796298b2a66c)
 
@@ -83,25 +92,24 @@ Graph shows mean age values:
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/3b1d51b3-f502-4120-96f2-b933afa020b6)
 
 
-
 Graph shows median age:
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/852946b9-1e8a-4ea0-9207-2c3f5c849f04)
 
 **Median** 
 The lowest median values of average age for all categories are in the range of 57 to 58 years. 
-- Administrative and support services (57.4865)
-- Accommodation and food services (57.6080)
- - Financial and insurance services (57.7515)
- - Retail trade (57.8765)
+ . Administrative and support services (57.4865)
+ . Accommodation and food services (57.6080)
+ . Financial and insurance services (57.7515)
+ . Retail trade (57.8765)
  Highest Average Retirement Age: are in the range of 60 to 61 years. These include:
-- Professional, scientific and technical services (61.3350)
-- Agriculture, forestry and fishing (61.4775)
- - Construction (60.7455)
- - Transport, postal and warehousing (60.6655)
+ . Professional, scientific and technical services (61.3350)
+ . Agriculture, forestry and fishing (61.4775)
+ . Construction (60.7455)
+ . Transport, postal and warehousing (60.6655)
  Mid-Range Average Retirement Age: (around 59 years) include:- Other services (59.4330)- Public administration and saf
- - Health care and social assistance (59.6700)
- - Wholesale trade (59.7155)ety (59.6490)
-- Electricity, gas, water and waste services (59.7920)
+ . Health care and social assistance (59.6700)
+ . Wholesale trade (59.7155)ety (59.6490)
+ . Electricity, gas, water and waste services (59.7920)
 
 
 ** Exploring median average age and related years**
@@ -109,20 +117,20 @@ The lowest median values of average age for all categories are in the range of 5
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/fa3334fb-9b96-4c2d-8d9b-03283d3b25d8)
 
 1. **Accommodation and Food Services:**
-   - The average age at retirement for this profession increased from 55.76 in 2014-15 to 58.73 in 2020-21. There's a general upward trend in retirement age over the years.
+   . The average age at retirement for this profession increased from 55.76 in 2014-15 to 58.73 in 2020-21. There's a general upward trend in retirement age over the years.
 
 2. **Administrative and Support Services:**
-   - The average age at retirement for this profession increased from 55.83 in 2014-15 to 60.37 in 2020-21. Similar to the previous profession, there's a noticeable increase in retirement age over the years.
+   . The average age at retirement for this profession increased from 55.83 in 2014-15 to 60.37 in 2020-21. Similar to the previous profession, there's a noticeable increase in retirement age over the years.
 
 3. **Financial and Insurance Services:**
-   - The average age at retirement fluctuates over the years but generally increased from 57.50 in 2014-15 to 59.70 in 2020-21.
+   . The average age at retirement fluctuates over the years but generally increased from 57.50 in 2014-15 to 59.70 in 2020-21.
 
 4. **Manufacturing:**
-   - The average age at retirement for the Manufacturing profession increased from 58.12 in 2014-15 to 59.84 in 2020-21. There's a slight upward trend in retirement age.
+   . The average age at retirement for the Manufacturing profession increased from 58.12 in 2014-15 to 59.84 in 2020-21. There's a slight upward trend in retirement age.
 
 5. **Retail Trade:**
-   - The average age at retirement for Retail Trade fluctuates, with a decrease from 59.03 in 2018-19 to 57.32 in 2020-21. There's a notable decrease in retirement age in the most recent years
-   - Across the professions, there seems to be an overall trend of increasing retirement ages over the years.
+   . The average age at retirement for Retail Trade fluctuates, with a decrease from 59.03 in 2018-19 to 57.32 in 2020-21. There's a notable decrease in retirement age in the most recent years
+   . Across the professions, there seems to be an overall trend of increasing retirement ages over the years.
 **Variability:** - There's variability in retirement ages within each profession, and the reasons for this variability would require further investigation.
  **Year-to-Year Changes:** - Some professions exhibit consistent increases in retirement age over the years, while others show fluctuations or occasional decreases.
 
@@ -133,11 +141,11 @@ The lowest median values of average age for all categories are in the range of 5
 
  
  **Overall Change in Average Age:**
-   - In general, there seems to be an increase in the average age at retirement from the year 2018-19 to 2020-21 for many categories.
+   . In general, there seems to be an increase in the average age at retirement from the year 2018-19 to 2020-21 for many categories.
  **Highest Average Age at Retirement:**
-   - "Professional, scientific and technical services" has consistently shown one of the highest average ages at retirement in both 2018-19 (62.056750) and 2020-21 (62.892875).
+   . "Professional, scientific and technical services" has consistently shown one of the highest average ages at retirement in both 2018-19 (62.056750) and 2020-21 (62.892875).
 **Lowest Average Age at Retirement:**
- - In 2018-19, "Electricity, gas, water and waste services" had the lowest average age at retirement (43.456625), while in 2020-21, "Agriculture, forestry and fishing" had the lowest (46.700000).
+ . In 2018-19, "Electricity, gas, water and waste services" had the lowest average age at retirement (43.456625), while in 2020-21, "Agriculture, forestry and fishing" had the lowest (46.700000).
 **Noticeable Changes:**-Some categories experienced significant changes in average age at retirement over the two years. For example, "Construction" increased from 60.1to 62.5
 **Consistency in Some Categories:**
   Categories like "Health care and social assistance," "Retail trade," and "Manufacturing" show relatively consistent average ages at retirement over the two years
@@ -156,8 +164,6 @@ If there are any questions or concerns, I can be reached at:
 github: svuth23
 [email: swapna.vuthpala@gmail.com]
 -----------------------------------------------------------------
-
-
 
 CONTENTS WITHIN 'retirement_analysis - BN.ipynb'
 -----------------------------------------------
@@ -214,8 +220,8 @@ A statistical analysis is performed taking into consideration total number of re
 
 Categories of Interest, Analysis and Findings
 1)	Contribution to a Super Fund 
--	People who had contributed to a superannuation scheme
--	People who had not contributed to a superannuation scheme
+.	People who had contributed to a superannuation scheme
+.	People who had not contributed to a superannuation scheme
 Data frame created and used ‘super_contribution_df’. The charts created using this data frame are –
 a)	To show retirees by age group for the 'super contribution' category
 b)	To show average age at retirement by category
@@ -225,8 +231,8 @@ b)	To show average age at retirement by category
 
 
 2)	Health Condition
--	People with a long-term health condition
--	People without a long-term health condition
+.	People with a long-term health condition
+.	People without a long-term health condition
 Data frame created and used ‘health_condition_df’. The charts created using this data frame are –
 a)	To show retirees by age group for the 'health condition' category
 b)	To show average retirement age by income category for different health conditions. 
@@ -235,9 +241,9 @@ b)	To show average retirement age by income category for different health condit
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/2ecc4f64-f66f-4941-a10f-67013f5ff21c)
 
 3)	Reason for leaving last job
--	Retired, left last job to retire
--	Retired, lost last job due to illness or injury
--	Retired, lost last job for economic reasons (retrenched)
+.	Retired, left last job to retire
+.	Retired, lost last job due to illness or injury
+.	Retired, lost last job for economic reasons (retrenched)
 Data frame created and used ‘leave_job_df’. The charts created using this data frame are –
 a)	To show retirees by age group for the category 'reason for leaving job'.
 b)	To show average age retirement age by income category for various reasons for leaving the job.
@@ -249,17 +255,17 @@ b)	To show average age retirement age by income category for various reasons for
 
 Key Findings/Analysis:
 ---------------
-  -pre_retirement income or super contribution is not indiciative of early retirement.
-  -people with higher incomes appeared to retire later than those with a lower income.
-  -financial struggle is significantly less of a factor than anticipated via the hypothesis.
+  .pre_retirement income or super contribution is not indiciative of early retirement.
+  .people with higher incomes appeared to retire later than those with a lower income.
+  .financial struggle is significantly less of a factor than anticipated via the hypothesis.
    (to elaborate, there was no trendpoint to suggest superannuation contributions was a factor).
-  -injury or illness has been proven to be the main factor resulting in younger retirement.
+  .injury or illness has been proven to be the main factor resulting in younger retirement.
   
 
 **Limitations**
 ---------------
-  -There was no expression of the entire population sample total in the dataset as it came pre aggregated.
-  -In addition, there was no data stating how much of the total sample did not fit a category, so it was hard to compare data.
+  .There was no expression of the entire population sample total in the dataset as it came pre aggregated.
+  .In addition, there was no data stating how much of the total sample did not fit a category, so it was hard to compare data.
   
 
 
