@@ -5,22 +5,19 @@ Hypothesis:
 We believe the main reasons for retirement at a younger age is consistent numerous factors such as; financial success within household, physical capabilities for their respective field & how dependant they are by defacto members. We also believe the age of retirement well prove to be less consistent overtime as there is more opportunity for success in certail fields of work.
 
 The 3 Questions:
--Do certain professions retire at an earlier age?
--What factors influence early retirement?
--How has retirement age changed overtime for everyone?
+-Question 1: Do certain professions retire at an earlier age?
+-Question 2: What factors influence early retirement?
+-Question 3: How has retirement age changed overtime for everyone?
 
 Assignments for members:
-Swapna:
-Gayan:
-Julia:
-Braydon:
+Swapna: Question 1 (all)
+Gayan: Question 2 (factors including: super contribution & reasons for retiring)
+Braydon: Question 2 (initial data cleaning of 'Characteristics of Retirees.xlsx' file & pre-retirement income factor).
+Julia: Question 3 (dropped) 
 
 Notes on assignment:
-Data Set:
-Hypothesis:
 Findings:
 Limitations:
-
 
 
 # Retirement Analysis: 
@@ -101,5 +98,26 @@ Contact
 If there are any questions or concerns, I can be reached at:
 github: svuth23
 [email: swapna.vuthpala@gmail.com]
+
+Second Task:
+What factors influence early retirement?
+
+Dictionaries:
+new_column_names: replaces headers in order to reduce length of titles in charts. (Specifier of data being in thousands is represented in the y axis of the charts).
+income_categories: holds necessary income categories & reference values for sorting
+income_classification: holds necessary income categories & reference values for sorting
+
+##Breakdown of 'Characteristics of Retirees.xlsx' file
+
+raw_data: derived from initial file, contains all relevant rows in regards to the question straight from 'Characteristics of Retirees.xlsx' file.
+  | tidied_retirement_df: derived from raw_data, eliminating rows titled 'TOTAL' in order to not compromise data.
+    |generalised_df: derived from tidied_retirement_df, only keeping rows where the 'Sex' column had the input 'Persons' (recognising this data is the total genders data).
+      |income_df: derived from generalised_data, only keeping relevant classifications & categories (held by income_categories & income_classification).
+                  Columns include 'Year', 'Classification', 'Category', (The 5 Age brackets), 'Total Retirees (thousands) & a Reference column (to order future df's when grouping).
+        |chart_data_all: derived from income_df, only keeping columns with the most recent year for relevant data (2020-21)
+        |chart_data: derived from income_df, exactly same as chart_data_all only without the 'Totals' column.
+        |chart_data2: deriving from income_df, 
+
+
 
 
