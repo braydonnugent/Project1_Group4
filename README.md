@@ -164,6 +164,15 @@ github: svuth23
 # Second Task:
  ## What factors influence early retirement?
 
+Plots:
+Bar Charts comparing pre_retirement income across age ranges (2020-21) 
+![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/47f11d8d-2440-41ea-b985-68de879b7578)
+
+Pie Charts comparing overall pre_retirement income based around key income range (2020-21) 
+![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/c5cb94c7-0208-47ea-ac67-39560b52c0bb)
+
+Note: You will find charts in both images representing 'Partners weekly income from all sources per week'. It was later found to be not relevant enough to implement in our presentation.
+
 Dictionaries:
 new_column_names: replaces headers in order to reduce length of titles in charts. (Specifier of data being in thousands is represented in the y axis of the charts).
 income_categories: holds necessary income categories & reference values for sorting
@@ -172,14 +181,22 @@ income_classification: holds necessary income categories & reference values for 
 ##Breakdown of 'Characteristics of Retirees.xlsx' file
 
 raw_data: derived from initial file, contains all relevant rows in regards to the question straight from 'Characteristics of Retirees.xlsx' file.
-  | tidied_retirement_df: derived from raw_data, eliminating rows titled 'TOTAL' in order to not compromise data.
-    |generalised_df: derived from tidied_retirement_df, only keeping rows where the 'Sex' column had the input 'Persons' (recognising this data is the total genders data).
-      |income_df: derived from generalised_data, only keeping relevant classifications & categories (held by income_categories & income_classification).
-                  Columns include 'Year', 'Classification', 'Category', (The 5 Age brackets), 'Total Retirees (thousands) & a Reference column (to order future df's when grouping).
-        |chart_data_all: derived from income_df, only keeping columns with the most recent year for relevant data (2020-21)
-        |chart_data: derived from income_df, exactly same as chart_data_all only without the 'Totals' column.
-        |chart_data2: deriving from income_df, 
+ 
+tidied_retirement_df: derived from raw_data, eliminating rows titled 'TOTAL' in order to not compromise data.
+
+generalised_df: derived from tidied_retirement_df, only keeping rows where the 'Sex' column had the input 'Persons' (recognising this data is the total genders data).
+
+income_df: derived from generalised_data, only keeping relevant classifications & categories (held by income_categories & income_classification).
+Columns include 'Year', 'Classification', 'Category', (The 5 Age brackets), 'Total Retirees (thousands) & a Reference column (to order future df's when grouping).
+
+chart_data: derived from income_df, equipped with relevant columns to visualise the summary of retirees incomes before retirement based on their age range via bar chart
+        
+chart_data2: deriving from income_df, equipped with relevant columns to visualise summary of grouped income via pie graph
 
 
+ Key Findings:
+  -pre_retirement income or super contribution is not indiciative of early retirement.
+  -financial struggle is significantly less of a factor than anticipated via the hypothesis.
+  -injury or illness has been proven to be the main factor resulting in younger retirement.
 
 
