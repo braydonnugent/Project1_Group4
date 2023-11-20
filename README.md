@@ -110,6 +110,8 @@ The lowest median values of average age for all categories are in the range of 5
 
 ** Exploring median average age and related years**
 **Graph showing top 5 Median average age values by profession and in different  years :**  
+![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/fa3334fb-9b96-4c2d-8d9b-03283d3b25d8)
+
 1. **Accommodation and Food Services:**
    - The average age at retirement for this profession increased from 55.76 in 2014-15 to 58.73 in 2020-21. There's a general upward trend in retirement age over the years.
 
@@ -131,6 +133,8 @@ The lowest median values of average age for all categories are in the range of 5
  #  comparative Analysis 
 . **Comparative Analysis:**
    - Monitor the data over time to identify any emerging trends or shifts in retirement patterns within these industries.Compare these average retirement ages in two different years 1918-19 and 2020-21
+   - ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/96c705ad-a083-4b03-80dc-f94d9e23c362)
+
  
  **Overall Change in Average Age:**
    - In general, there seems to be an increase in the average age at retirement from the year 2018-19 to 2020-21 for many categories.
