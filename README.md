@@ -7,9 +7,8 @@ The objective of this analysis is to investigate whether specific professions ex
 https://www.abs.gov.au/statistics/labour/employment-and-unemployment/retirement-and-retirement-intentions-australia/2020-21#data-downloads
 
 Tables used to answer question from link
-Question 1:
+Question 1: Table 4- 'Previous jobs of retirees', Table 13 - 'Populations of states & territory'
 Question 2: Table 3 - 'Characteristics of Retirees'
-Question 3:
 
 Hypothesis:
 We believe the main reasons for retirement at a younger age is consistent numerous factors such as; financial success within household, physical capabilities for their respective field & how dependant they are by defacto members. We also believe the age of retirement well prove to be less consistent overtime as there is more opportunity for success in certail fields of work.
@@ -28,7 +27,6 @@ Julia: Question 3 (dropped)
 # Retirement Analysis: 
 Do certain professions retire at an earlier age? What factors influence early retirement?
  How has retirement age changed overtime for everyone?
-
 
 
 CONTENT WITHIN 'first_question_SV'
@@ -146,7 +144,7 @@ The lowest median values of average age for all categories are in the range of 5
 Overall ,There are noticeable differences in average ages at retirement between different categories, highlighting potential sectors.Consider external factors that might have influenced the changes in retirement ages, such as economic conditions, industry trends, or policy adjustments.Electricity, gas, water and waste services" in 2018-19 and "Agriculture, forestry and fishing" in 2020-21 have average ages that stand out. Investigate if these values are outliers or if there are specific reasons for the differences
 
 
-# RESULTS:
+# RESULTS/ANALYSIS:
 In conclusion, our analysis of average retirement ages reveals distinct patterns across professions. Industries such as Financial and insurance services,Electricity, gas, water and waste services, and Mining exhibit a consistent trend of early retirements. So, it means some of professions retire early compared to other professions. 
 Understanding these patterns is crucial for employers, policymakers, and individuals planning for their retirement. Further research, behind these trends and effecting factors can provide information to make future decisions.
 
@@ -169,6 +167,10 @@ CONTENTS WITHIN 'retirement_analysis - BN.ipynb'
 Question:
 What factors influence early retirement?
 Plots:
+
+generalised_df Data Frame Head & Code Screenshot: demonstration of data cleaning & example of commonly used data frame.
+<img width="785" alt="image" src="https://github.com/braydonnugent/Project1_Group4/assets/142812919/688be0ac-bdbb-4c02-8eff-d98f8a066793">
+
 Bar Charts comparing pre_retirement income across age ranges (2020-21) 
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/47f11d8d-2440-41ea-b985-68de879b7578)
 
@@ -205,7 +207,7 @@ chart_data2: deriving from income_df, equipped with relevant columns to visualis
 ---------------------------
 
 CONTENT WITHIN 'Retirement Analysis - GD'
-
+--------------------------------------------
 Adding to question what factors influence early retirement, 3 categories of interest were identified and analysed from the population in the dataset ‘ Characteristics of Retirees - clean’. The dataset is filtered for the category of interest and the resulting data for each category is put into individual data frames and then analysed. 
 
 A statistical analysis is performed taking into consideration total number of retirees for each of the subsets in the 3 categories. This is stored in the dictionary ‘statistics by population’.
@@ -245,13 +247,14 @@ b)	To show average age retirement age by income category for various reasons for
 
 ---------------------------------------------
 
-Key Findings:
+Key Findings/Analysis:
 ---------------
   -pre_retirement income or super contribution is not indiciative of early retirement.
-  
+  -people with higher incomes appeared to retire later than those with a lower income.
   -financial struggle is significantly less of a factor than anticipated via the hypothesis.
-  
+   (to elaborate, there was no trendpoint to suggest superannuation contributions was a factor).
   -injury or illness has been proven to be the main factor resulting in younger retirement.
+  
 
 **Limitations**
 ---------------
