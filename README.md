@@ -15,13 +15,6 @@ Gayan: Question 2 (factors including: super contribution & reasons for retiring)
 Braydon: Question 2 (initial data cleaning of 'Characteristics of Retirees.xlsx' file & pre-retirement income factor).
 Julia: Question 3 (dropped) 
 
-Notes on assignment:
-Findings:
-Limitations:
-
-
-
-
 # Retirement Analysis: 
 Do certain professions retire at an earlier age? What factors influence early retirement?
  How has retirement age changed overtime for everyone?
@@ -30,6 +23,11 @@ Do certain professions retire at an earlier age? What factors influence early re
 The objective of this analysis is to investigate whether specific professions exhibit an inclination for early retirement and what factors influence it. By examining retirement age data across various professions, we aim to identify any patterns, trends that suggest a correlation between a person's occupation and the age at which they retire. This analysis seeks to provide insights into the retirement landscape across different professions and contribute to a better understanding of retirement patterns in the workforce.
 #Data Source
 https://www.abs.gov.au/statistics/labour/employment-and-unemployment/retirement-and-retirement-intentions-australia/2020-21#data-downloads
+
+Tables used to answer question from link
+Question 1:
+Question 2: Table 3 - 'Characteristics of Retirees'
+Question 3:
 
 
  ## prerequisites
@@ -162,7 +160,9 @@ github: svuth23
 
 
 # Second Task:
- ## What factors influence early retirement?
+==============================================================================================================================================================================
+What factors influence early retirement?
+-----------------------------------------
 
 Plots:
 Bar Charts comparing pre_retirement income across age ranges (2020-21) 
@@ -195,8 +195,17 @@ chart_data2: deriving from income_df, equipped with relevant columns to visualis
 
 
  Key Findings:
+ ---------------
   -pre_retirement income or super contribution is not indiciative of early retirement.
+  
   -financial struggle is significantly less of a factor than anticipated via the hypothesis.
+  
   -injury or illness has been proven to be the main factor resulting in younger retirement.
+
+ **Limitations**
+ ---------------
+  -There was no expression of the entire population sample total in the dataset as it came pre aggregated.
+  -In addition, there was no data stating how much of the total sample did not fit a category, so it was hard to compare data.
+  
 
 
