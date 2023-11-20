@@ -160,9 +160,10 @@ github: svuth23
 
 
 # Second Task:
-==============================================================================================================================================================================
+----------------
+
+Question:
 What factors influence early retirement?
------------------------------------------
 
 Plots:
 Bar Charts comparing pre_retirement income across age ranges (2020-21) 
