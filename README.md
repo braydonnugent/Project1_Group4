@@ -84,6 +84,8 @@ Graph shows mean age values:
 
 
 Graph shows median age:
+![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/852946b9-1e8a-4ea0-9207-2c3f5c849f04)
+
 **Median** 
 The lowest median values of average age for all categories are in the range of 57 to 58 years. 
 - Administrative and support services (57.4865)
