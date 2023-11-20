@@ -58,6 +58,8 @@ First Task:
 We cleaned data to desired data frame by using python code.
 -The main Data set is read from excel file (Previous jobs of retirees - cleaned.xlsx)   is     retiries _df  consist of  Cleaned data set  includes variables , Year, Population of interest , age at different intervals ,Average age, Classification ,Category.
 Image: retirees Data set.
+![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/7817db00-0b4e-4930-8037-796298b2a66c)
+
  
 
 Identify a statistical relationship or connection between two variables i.e. the type of profession and the retirement age.
