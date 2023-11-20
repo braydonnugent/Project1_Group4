@@ -1,6 +1,16 @@
 # Project1_Group4
 First Group Project
 
+##  Overview
+The objective of this analysis is to investigate whether specific professions exhibit an inclination for early retirement and what factors influence it. By examining retirement age data across various professions, we aim to identify any patterns, trends that suggest a correlation between a person's occupation and the age at which they retire. This analysis seeks to provide insights into the retirement landscape across different professions and contribute to a better understanding of retirement patterns in the workforce.
+#Data Source
+https://www.abs.gov.au/statistics/labour/employment-and-unemployment/retirement-and-retirement-intentions-australia/2020-21#data-downloads
+
+Tables used to answer question from link
+Question 1:
+Question 2: Table 3 - 'Characteristics of Retirees'
+Question 3:
+
 Hypothesis:
 We believe the main reasons for retirement at a younger age is consistent numerous factors such as; financial success within household, physical capabilities for their respective field & how dependant they are by defacto members. We also believe the age of retirement well prove to be less consistent overtime as there is more opportunity for success in certail fields of work.
 
@@ -19,17 +29,10 @@ Julia: Question 3 (dropped)
 Do certain professions retire at an earlier age? What factors influence early retirement?
  How has retirement age changed overtime for everyone?
 
-##  Overview
-The objective of this analysis is to investigate whether specific professions exhibit an inclination for early retirement and what factors influence it. By examining retirement age data across various professions, we aim to identify any patterns, trends that suggest a correlation between a person's occupation and the age at which they retire. This analysis seeks to provide insights into the retirement landscape across different professions and contribute to a better understanding of retirement patterns in the workforce.
-#Data Source
-https://www.abs.gov.au/statistics/labour/employment-and-unemployment/retirement-and-retirement-intentions-australia/2020-21#data-downloads
-
-Tables used to answer question from link
-Question 1:
-Question 2: Table 3 - 'Characteristics of Retirees'
-Question 3:
 
 
+CONTENT WITHIN 'first_question_SV'
+------------------------------------
  ## prerequisites
 To produce this analysis, we will need the following tools and libraries:
 Python Pandas NumPy Jupyter Notebook Matplotlib
@@ -157,14 +160,17 @@ Contact
 If there are any questions or concerns, I can be reached at:
 github: svuth23
 [email: swapna.vuthpala@gmail.com]
+-----------------------------------------------------------------
 
+
+
+CONTENTS WITHIN 'retirement_analysis - BN.ipynb'
+-----------------------------------------------
 
 # Second Task:
-----------------
 
 Question:
 What factors influence early retirement?
-
 Plots:
 Bar Charts comparing pre_retirement income across age ranges (2020-21) 
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/47f11d8d-2440-41ea-b985-68de879b7578)
@@ -196,9 +202,9 @@ Columns include 'Year', 'Classification', 'Category', (The 5 Age brackets), 'Tot
 chart_data: derived from income_df, equipped with relevant columns to visualise the summary of retirees incomes before retirement based on their age range via bar chart
         
 chart_data2: deriving from income_df, equipped with relevant columns to visualise summary of grouped income via pie graph
+---------------------------
 
-Adding to question what factors influence early retirement, 3 categories of interest were identified and analysed from the population in the dataset ‘ Characteristics of Retirees - clean’. The dataset is filtered for the category of interest and the resulting data for each category is put into individual data frames and then analysed. 
-A statistical analysis is performed taking into consideration total number of retirees for each of the subsets in the 3 categories. This is stored in the dictionary ‘statistics by population’.
+CONTENT WITHIN 'Retirement Analysis - GD'
 
 Categories of Interest, Analysis and Findings
 1)	Contribution to a Super Fund 
@@ -222,6 +228,7 @@ b)	To show average retirement age by income category for different health condit
 Data frame created and used ‘leave_job_df’. The charts created using this data frame are –
 a)	To show retirees by age group for the category 'reason for leaving job'.
 b)	To show average age retirement age by income category for various reasons for leaving the job.
+---------------------------------------------
 
 Key Findings:
 ---------------
