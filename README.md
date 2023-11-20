@@ -5,6 +5,8 @@ Retirement Analysis - GD: co answers the second question.
 
 PRES Retirement Analysis: Group presentation slides.
 
+PLEASE FIND ATTACHED THE FOLLOWING FOLDERS
+data: contains spreadsheets used for the investigation
 --------------------------------
 
 # Project1_Group4
