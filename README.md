@@ -70,7 +70,8 @@ Identify a statistical relationship or connection between two variables i.e. the
 ### Observations:
 Average(calculated using mean) age in all different professions:
 
- 
+ ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/cb40c774-c757-44e7-a10d-6345025dc27e)
+
 **Early Retirement Industries:**- Categories such as Financial and insurance services, Electricity, gas, water and waste services, and Mining have notably lower average ages at retirement, suggesting that individuals in these industries tend to retire relatively early. i.e. at average age 48.16 and 48.83 .
 **Mid-Range Retirement Ages:**  -Categories like "Manufacturing," "Wholesale trade," and "Arts and recreation services" fall in the mid-range of average retirement age falls under 52.9 to 54.8
  **Later Retirement Industries:** - Professions such as Professional, scientific and technical services, Transport, postal and warehousing, and Education and training have higher average ages at retirement, indicating a tendency for later retirement in these sectors .i.e. average age falls in  60.8 to 62.1
@@ -80,6 +81,7 @@ Average(calculated using mean) age in all different professions:
 
 Graph shows mean age values:
  
+![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/3b1d51b3-f502-4120-96f2-b933afa020b6)
 
 
 
