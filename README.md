@@ -197,17 +197,42 @@ chart_data: derived from income_df, equipped with relevant columns to visualise 
         
 chart_data2: deriving from income_df, equipped with relevant columns to visualise summary of grouped income via pie graph
 
+Adding to question what factors influence early retirement, 3 categories of interest were identified and analysed from the population in the dataset ‘ Characteristics of Retirees - clean’. The dataset is filtered for the category of interest and the resulting data for each category is put into individual data frames and then analysed. 
+A statistical analysis is performed taking into consideration total number of retirees for each of the subsets in the 3 categories. This is stored in the dictionary ‘statistics by population’.
 
- Key Findings:
- ---------------
+Categories of Interest, Analysis and Findings
+1)	Contribution to a Super Fund 
+-	People who had contributed to a superannuation scheme
+-	People who had not contributed to a superannuation scheme
+Data frame created and used ‘super_contribution_df’. The charts created using this data frame are –
+a)	To show retirees by age group for the 'super contribution' category
+b)	To show average age at retirement by category
+
+2)	Health Condition
+-	People with a long-term health condition
+-	People without a long-term health condition
+Data frame created and used ‘health_condition_df’. The charts created using this data frame are –
+a)	To show retirees by age group for the 'health condition' category
+b)	To show average retirement age by income category for different health conditions. 
+
+3)	Reason for leaving last job
+-	Retired, left last job to retire
+-	Retired, lost last job due to illness or injury
+-	Retired, lost last job for economic reasons (retrenched)
+Data frame created and used ‘leave_job_df’. The charts created using this data frame are –
+a)	To show retirees by age group for the category 'reason for leaving job'.
+b)	To show average age retirement age by income category for various reasons for leaving the job.
+
+Key Findings:
+---------------
   -pre_retirement income or super contribution is not indiciative of early retirement.
   
   -financial struggle is significantly less of a factor than anticipated via the hypothesis.
   
   -injury or illness has been proven to be the main factor resulting in younger retirement.
 
- **Limitations**
- ---------------
+**Limitations**
+---------------
   -There was no expression of the entire population sample total in the dataset as it came pre aggregated.
   -In addition, there was no data stating how much of the total sample did not fit a category, so it was hard to compare data.
   
