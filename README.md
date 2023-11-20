@@ -160,8 +160,9 @@ If there are any questions or concerns, I can be reached at:
 github: svuth23
 [email: swapna.vuthpala@gmail.com]
 
+
 # Second Task:
-## What factors influence early retirement?
+ ## What factors influence early retirement?
 
 Dictionaries:
 new_column_names: replaces headers in order to reduce length of titles in charts. (Specifier of data being in thousands is represented in the y axis of the charts).
