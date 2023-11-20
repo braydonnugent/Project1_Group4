@@ -130,7 +130,7 @@ The lowest median values of average age for all categories are in the range of 5
 
  #  comparative Analysis 
 . **Comparative Analysis:**
-   - Monitor the data over time to identify any emerging trends or shifts in retirement patterns within these industries.Compare these average retirement ages in two different years 1918-19 and 2020-21
+   - Monitor the data over time to identify any emerging trends or shifts in retirement patterns within these industries.Compare these average retirement ages in two different years 2018-19 and 2020-21
    - ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/96c705ad-a083-4b03-80dc-f94d9e23c362)
 
  
@@ -171,6 +171,9 @@ Bar Charts comparing pre_retirement income across age ranges (2020-21)
 
 Pie Charts comparing overall pre_retirement income based around key income range (2020-21) 
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/c5cb94c7-0208-47ea-ac67-39560b52c0bb)
+
+Code Screen Shot displaying evidence to draw difference between Bar Charts
+![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/ead8a7dc-2f9c-467f-967e-fa08e11a6bd5)
 
 Note: You will find charts in both images representing 'Partners weekly income from all sources per week'. It was later found to be not relevant enough to implement in our presentation.
 
