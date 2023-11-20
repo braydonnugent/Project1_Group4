@@ -106,9 +106,6 @@ The lowest median values of average age for all categories are in the range of 5
 - Electricity, gas, water and waste services (59.7920)
 
 
-
-
-
 ** Exploring median average age and related years**
 **Graph showing top 5 Median average age values by profession and in different  years :**  
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/136966712/fa3334fb-9b96-4c2d-8d9b-03283d3b25d8)
@@ -179,7 +176,10 @@ Pie Charts comparing overall pre_retirement income based around key income range
 ![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/c5cb94c7-0208-47ea-ac67-39560b52c0bb)
 
 Code Screen Shot displaying evidence to draw difference between Bar Charts
-![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/ead8a7dc-2f9c-467f-967e-fa08e11a6bd5)
+![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/5bebc85e-8d40-482e-9fbd-53ae2a7f08a9)
+
+Code Results Screen Shot
+![image](https://github.com/braydonnugent/Project1_Group4/assets/142812919/7d240d8e-1a6e-4ad9-bf0f-cb5cbe8f8281)
 
 Note: You will find charts in both images representing 'Partners weekly income from all sources per week'. It was later found to be not relevant enough to implement in our presentation.
 
