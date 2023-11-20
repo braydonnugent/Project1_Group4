@@ -206,6 +206,10 @@ chart_data2: deriving from income_df, equipped with relevant columns to visualis
 
 CONTENT WITHIN 'Retirement Analysis - GD'
 
+Adding to question what factors influence early retirement, 3 categories of interest were identified and analysed from the population in the dataset ‘ Characteristics of Retirees - clean’. The dataset is filtered for the category of interest and the resulting data for each category is put into individual data frames and then analysed. 
+
+A statistical analysis is performed taking into consideration total number of retirees for each of the subsets in the 3 categories. This is stored in the dictionary ‘statistics by population’.
+
 Categories of Interest, Analysis and Findings
 1)	Contribution to a Super Fund 
 -	People who had contributed to a superannuation scheme
@@ -214,12 +218,19 @@ Data frame created and used ‘super_contribution_df’. The charts created usin
 a)	To show retirees by age group for the 'super contribution' category
 b)	To show average age at retirement by category
 
+![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/87dc16c6-891c-4481-aab0-a059aa8da3c4)
+![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/7ea24f07-0e3a-4fd6-a1fa-e00277c9345c)
+
+
 2)	Health Condition
 -	People with a long-term health condition
 -	People without a long-term health condition
 Data frame created and used ‘health_condition_df’. The charts created using this data frame are –
 a)	To show retirees by age group for the 'health condition' category
 b)	To show average retirement age by income category for different health conditions. 
+
+![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/56272edc-5e5a-43dd-a077-845bee82a392)
+![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/2ecc4f64-f66f-4941-a10f-67013f5ff21c)
 
 3)	Reason for leaving last job
 -	Retired, left last job to retire
@@ -228,6 +239,10 @@ b)	To show average retirement age by income category for different health condit
 Data frame created and used ‘leave_job_df’. The charts created using this data frame are –
 a)	To show retirees by age group for the category 'reason for leaving job'.
 b)	To show average age retirement age by income category for various reasons for leaving the job.
+
+![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/baa9bb93-d7d4-4e88-9e15-2eb0f9ebf830)
+![image](https://github.com/braydonnugent/Project1_Group4/assets/144679119/a8e5fec2-455c-446d-b5f5-3399aeddf76b)
+
 ---------------------------------------------
 
 Key Findings:
